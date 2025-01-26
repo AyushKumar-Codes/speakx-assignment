@@ -1,4 +1,4 @@
-# **Assignment Title**
+# **SpeakX Assignment**
 
 ## **Description**
 This assignment involves the implementation of a **Flutter app** that handles dynamic data loading and search functionalities with optimized state management using **Riverpod**. The app showcases a list of items, supports both infinite scrolling for loading more data and searching through the list, with additional shimmer effects during loading states. The app is designed to provide a seamless user experience, simulating network delays to mimic realistic data fetching scenarios.
