@@ -28,7 +28,7 @@ git clone https://github.com/AyushKumar-Codes/speakx-assignment.git
 Change to the project directory:
 
 cd speakx-assignment
-text
+
 
 ### 3. **Install Dependencies**
 Make sure you have Flutter and Dart installed on your machine. Run the following command to install the required dependencies:
