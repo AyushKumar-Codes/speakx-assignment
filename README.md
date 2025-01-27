@@ -66,7 +66,8 @@ Upon running the app, you'll be presented with a list of items. You can use the 
 ---
 
 ## **Video Demonstration**
-[Watch Video Demonstration]([path_to_video_link](https://drive.google.com/file/d/10djmGHaBiqGwRNHZ29Q1s33HzfnY3ewY/view?usp=drive_link))
+[Watch Video Demonstration](https://drive.google.com/file/d/10djmGHaBiqGwRNHZ29Q1s33HzfnY3ewY/view?usp=drive_link)
+
 
 ---
 
