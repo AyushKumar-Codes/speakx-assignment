@@ -21,7 +21,7 @@ To run this project on your local machine, follow these steps:
 ### 1. **Clone the Repository**
 Clone the repository to your local machine using the following command:
 
-git clone [<repository_url>](https://github.com/AyushKumar-Codes/speakx-assignment.git)
+git clone https://github.com/AyushKumar-Codes/speakx-assignment.git
 text
 
 ### 2. **Navigate to the Project Directory**
