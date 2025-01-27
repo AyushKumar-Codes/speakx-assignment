@@ -53,11 +53,12 @@ Upon running the app, you'll be presented with a list of items. You can use the 
 
 ## Screenshots
 
-| **Screen**       | **Screenshot**                                                                 |
-|-------------------|-------------------------------------------------------------------------------|
-| **Main Screen**   | ![Main Screen](https://github.com/user-attachments/assets/a18d795c-6e6c-49a6-8f0f-a5a4dd121717) |
-| **Search Screen** | ![Search Screen](https://github.com/user-attachments/assets/ee4d10fe-0eb9-44c9-996d-8e740a37fba6) |
-| **Loading State** | ![Loading State 1](https://github.com/user-attachments/assets/7840c2da-2f64-406c-b462-1adab7cc59d3) <br> ![Loading State 2](https://github.com/user-attachments/assets/b5b2d6bd-b0ba-42e4-88ac-a60be4b15fc6) |
+| **Screen**       | **Screenshot**                                                                                  |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **Main Screen**   | <img src="https://github.com/user-attachments/assets/a18d795c-6e6c-49a6-8f0f-a5a4dd121717" width="300"> |
+| **Search Screen** | <img src="https://github.com/user-attachments/assets/ee4d10fe-0eb9-44c9-996d-8e740a37fba6" width="300"> |
+| **Loading State** | <img src="https://github.com/user-attachments/assets/7840c2da-2f64-406c-b462-1adab7cc59d3" width="300"> <br> <img src="https://github.com/user-attachments/assets/b5b2d6bd-b0ba-42e4-88ac-a60be4b15fc6" width="300"> |
+
 
 
 
