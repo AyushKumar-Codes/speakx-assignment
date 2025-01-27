@@ -1,5 +1,5 @@
 # **SpeakX Assignment**
-
+![Image](https://github.com/user-attachments/assets/3147bd02-4f4e-43d7-a3d1-4283598d3e1e)
 ## **Description**
 This assignment involves the implementation of a **Flutter app** that handles dynamic data loading and search functionalities with optimized state management using **Riverpod**. The app showcases a list of items, supports both infinite scrolling for loading more data and searching through the list, with additional shimmer effects during loading states. The app is designed to provide a seamless user experience, simulating network delays to mimic realistic data fetching scenarios.
 
@@ -52,14 +52,15 @@ Upon running the app, you'll be presented with a list of items. You can use the 
 ---
 
 ## **Screenshots**
-![Main Screen](path_to_screenshot/main_screen.png)
-![Search Screen](path_to_screenshot/search_screen.png)
-![Loading State](path_to_screenshot/loading_state.png)
+![Main Screen](![Image](https://github.com/user-attachments/assets/a18d795c-6e6c-49a6-8f0f-a5a4dd121717))
+![Search Screen](![Image](https://github.com/user-attachments/assets/ee4d10fe-0eb9-44c9-996d-8e740a37fba6))
+![Loading State](![Image](https://github.com/user-attachments/assets/7840c2da-2f64-406c-b462-1adab7cc59d3)    ![Image](https://github.com/user-attachments/assets/b5b2d6bd-b0ba-42e4-88ac-a60be4b15fc6))
+
 
 ---
 
 ## **Video Demonstration**
-[Watch Video Demonstration](path_to_video_link)
+[Watch Video Demonstration]([path_to_video_link](https://drive.google.com/file/d/10djmGHaBiqGwRNHZ29Q1s33HzfnY3ewY/view?usp=drive_link))
 
 ---
 
