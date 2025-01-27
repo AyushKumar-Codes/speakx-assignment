@@ -21,26 +21,26 @@ To run this project on your local machine, follow these steps:
 ### 1. **Clone the Repository**
 Clone the repository to your local machine using the following command:
 
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/AyushKumar-Codes/speakx-assignment.git)
 text
 
 ### 2. **Navigate to the Project Directory**
 Change to the project directory:
 
-cd <project_directory>
+cd speakx-assignment
 text
 
 ### 3. **Install Dependencies**
 Make sure you have Flutter and Dart installed on your machine. Run the following command to install the required dependencies:
 
 flutter pub get
-text
+
 
 ### 4. **Run the Project**
 After installing dependencies, use the following command to launch the app on an emulator or physical device:
 
 flutter run
-text
+
 
 ---
 
@@ -102,25 +102,25 @@ The app is structured as follows:
 After setting up the project, run the following command to launch the app:
 
 flutter run
-text
+
 
 ### Clean the Project
 To clean up any cached data, use:
 
 flutter clean
-text
+
 
 ### Get Dependencies
 To fetch all the necessary packages and dependencies:
 
 flutter pub get
-text
+
 
 ### Upgrade Dependencies
 To upgrade all the dependencies to their latest versions:
 
 flutter pub upgrade
-text
+
 
 ---
 
