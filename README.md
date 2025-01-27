@@ -54,11 +54,28 @@ Upon running the app, you'll be presented with a list of items. You can use the 
 
 ## Screenshots
 
-| **Screen**       | **Screenshot**                                                                                  |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| **Main Screen**   | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/a18d795c-6e6c-49a6-8f0f-a5a4dd121717" width="300" height="500"></div> |
-| **Search Screen** | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/ee4d10fe-0eb9-44c9-996d-8e740a37fba6" width="300" height="500"></div> |
-| **Loading State** | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/7840c2da-2f64-406c-b462-1adab7cc59d3" width="300" height="500"> <img src="https://github.com/user-attachments/assets/b5b2d6bd-b0ba-42e4-88ac-a60be4b15fc6" width="300" height="500"></div> |
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th>Screen</th>
+    <th>Screenshot</th>
+  </tr>
+  <tr>
+    <td><strong>Main Screen</strong></td>
+    <td><img src="https://github.com/user-attachments/assets/a18d795c-6e6c-49a6-8f0f-a5a4dd121717" width="300" height="500"></td>
+  </tr>
+  <tr>
+    <td><strong>Search Screen</strong></td>
+    <td><img src="https://github.com/user-attachments/assets/ee4d10fe-0eb9-44c9-996d-8e740a37fba6" width="300" height="500"></td>
+  </tr>
+  <tr>
+    <td><strong>Loading State</strong></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7840c2da-2f64-406c-b462-1adab7cc59d3" width="300" height="500">
+      <img src="https://github.com/user-attachments/assets/b5b2d6bd-b0ba-42e4-88ac-a60be4b15fc6" width="300" height="500">
+    </td>
+  </tr>
+</table>
+
 
 
 
